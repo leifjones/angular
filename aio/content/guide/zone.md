@@ -98,7 +98,7 @@ If the data changed, you render the HTML to reflect the updated data.
 
 In Angular, this step is unnecessary. Whenever you update the data, your HTML is updated automatically.
 
-###  HTML
+### When apps update HTML
 
 To understand how change detection works, first consider when the application needs to update the HTML. Typically, updates occur for one of the following reasons:
 
